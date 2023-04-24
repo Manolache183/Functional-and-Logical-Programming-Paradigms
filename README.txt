@@ -1,0 +1,1 @@
+These programs implement mathematical concepts using functional programming, and validate an ultimate Tic Tac Toe game using logical programming.
